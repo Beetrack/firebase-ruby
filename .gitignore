@@ -47,3 +47,6 @@ doc
 *.swp
 
 Gemfile.lock
+
+# Credentials - master keys should NOT be committed
+config/credentials/*.key
